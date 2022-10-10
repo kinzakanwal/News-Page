@@ -2,4 +2,8 @@
 
 This is a practice repo containing code for HTML5: different tags have been covered and also CSS3 for styling the html
 
+ patch-1
 Adding some rainbow in this grey repo. XD
+=======
+Adding some colors to your repo XD
+ master
